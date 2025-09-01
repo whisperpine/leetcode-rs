@@ -61,7 +61,16 @@
               rustToolchain
               cargo-nextest # next-generation test runner
               just # just a command runner
+              cocogitto # conventional commit toolkit
+              husky # managing git hooks
+              typos # check misspelling
             ];
+            shellHook = ''
+              # install git hook managed by husky
+              if [ ! -e "./.husky/_" ]; then
+                husky install
+              fi
+            '';
           };
         }
       );
