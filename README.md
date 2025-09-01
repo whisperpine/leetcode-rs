@@ -110,3 +110,9 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 20. Valid Parentheses | Easy | [20_valid_parentheses.rs](./tests/20_valid_parentheses.rs) |
+
+### Binary Search
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 704. Binary Search | Easy | [704_binary_search.rs](./tests/704_binary_search.rs) |
