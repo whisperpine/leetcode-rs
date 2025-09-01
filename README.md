@@ -104,3 +104,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 125. Valid Palindrome | Easy | [125_valid_palindrome.rs](./tests/125_valid_palindrome.rs) |
 | 15. 3Sum | Medium | [15_3sum.rs](./tests/15_3sum.rs) |
+
+### Stack
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 20. Valid Parentheses | Easy | [20_valid_parentheses.rs](./tests/20_valid_parentheses.rs) |
