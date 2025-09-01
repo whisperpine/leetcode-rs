@@ -1,10 +1,13 @@
+<!-- markdownlint-disable MD033 -->
 # LeetCode Rust
 
-LeetCode problem solutions in Rust.
+An ongoing list of LeetCode problem solutions in Rust.
 
 ## NeetCode Roadmap
 
 Refer to [NeetCode Roadmap](https://neetcode.io/roadmap).
+
+<details><summary>Roadmap Mermaid Flowchart</summary>
 
 ```mermaid
 flowchart LR
@@ -17,8 +20,8 @@ flowchart LR
   trees("Trees")
   tries("Tries")
   backtracing("Backtracing")
-  heap("Heap / Priority Queue")
   %% heap("Heap")
+  heap("Heap / Priority Queue")
   graphs("Graphs")
   %% dp("DP")
   dp("Dynamic Programming")
@@ -54,6 +57,8 @@ flowchart LR
   heap --> intervals
   heap --> greedy
 ```
+
+</details>
 
 ## Get Started
 
