@@ -116,3 +116,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 704. Binary Search | Easy | [704_binary_search.rs](./tests/704_binary_search.rs) |
+| 74. Search a 2D Matrix | Medium | [74_search_a_2d_matrix.rs](./tests/74_search_a_2d_matrix.rs) |
