@@ -117,3 +117,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 704. Binary Search | Easy | [704_binary_search.rs](./tests/704_binary_search.rs) |
 | 74. Search a 2D Matrix | Medium | [74_search_a_2d_matrix.rs](./tests/74_search_a_2d_matrix.rs) |
+
+### Sliding Window
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 121. Best Time to Buy and Sell Stock | Easy | [121_best_time_to_buy_and_sell_stock.rs](./tests/121_best_time_to_buy_and_sell_stock.rs) |
