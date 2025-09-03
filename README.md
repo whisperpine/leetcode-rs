@@ -131,3 +131,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 206. Reverse Linked List | Easy | [206_reverse_linked_list.rs](./tests/206_reverse_linked_list.rs) |
 | 21. Merge Two Sorted Lists | Easy | [21_merge_two_sorted_lists.rs](./tests/21_merge_two_sorted_lists.rs) |
+
+### Trees
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 226. Invert Binary Tree | Easy | [226_invert_binary_tree.rs](./tests/226_invert_binary_tree.rs) |
