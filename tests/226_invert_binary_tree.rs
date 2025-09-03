@@ -9,10 +9,6 @@ fn test_226_invert_binary_tree() {}
 #[derive(Debug)]
 pub struct Solution;
 
-// ---------------------------------
-// copy to leetcode starts from here
-// ---------------------------------
-
 // Definition for a binary tree node.
 #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
@@ -31,6 +27,10 @@ impl TreeNode {
         }
     }
 }
+
+// ---------------------------------
+// copy to leetcode starts from here
+// ---------------------------------
 
 use std::cell::RefCell;
 use std::rc::Rc;
