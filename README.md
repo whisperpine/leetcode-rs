@@ -137,3 +137,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 226. Invert Binary Tree | Easy | [226_invert_binary_tree.rs](./tests/226_invert_binary_tree.rs) |
+| 104. Maximum Depth of Binary Tree | Easy | [104_maximum_depth_of_binary_tree.rs](./tests/104_maximum_depth_of_binary_tree.rs) |
