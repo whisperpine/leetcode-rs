@@ -130,3 +130,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 206. Reverse Linked List | Easy | [206_reverse_linked_list.rs](./tests/206_reverse_linked_list.rs) |
+| 21. Merge Two Sorted Lists | Easy | [21_merge_two_sorted_lists.rs](./tests/21_merge_two_sorted_lists.rs) |
