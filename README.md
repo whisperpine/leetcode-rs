@@ -124,3 +124,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 121. Best Time to Buy and Sell Stock | Easy | [121_best_time_to_buy_and_sell_stock.rs](./tests/121_best_time_to_buy_and_sell_stock.rs) |
 | 3. Longest Substring Without Repeating Characters | Medium | [3_longest_substring_without_repeating_characters.rs](./tests/3_longest_substring_without_repeating_characters.rs) |
+
+### Linked List
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 206. Reverse Linked List | Easy | [206_reverse_linked_list.rs](./tests/206_reverse_linked_list.rs) |
