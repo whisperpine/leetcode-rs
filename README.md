@@ -152,3 +152,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 200. Number of Islands | Medium | [200_number_of_islands.rs](./tests/200_number_of_islands.rs) |
+| 695. Max Area of Island | Medium | [695_max_area_of_island.rs](./tests/695_max_area_of_island.rs) |
