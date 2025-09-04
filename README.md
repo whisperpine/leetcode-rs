@@ -153,3 +153,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 200. Number of Islands | Medium | [200_number_of_islands.rs](./tests/200_number_of_islands.rs) |
 | 695. Max Area of Island | Medium | [695_max_area_of_island.rs](./tests/695_max_area_of_island.rs) |
+
+### Heap / Priority Queue
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 703. Kth Largest Element in a Stream | Easy | [703_kth_largest_element_in_a_stream.rs](./tests/703_kth_largest_element_in_a_stream.rs) |
