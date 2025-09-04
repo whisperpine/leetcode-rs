@@ -146,3 +146,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 78. Subsets | Medium | [78_subsets.rs](./tests/78_subsets.rs) |
 | 39. Combination Sum | Medium | [39_combination_sum.rs](./tests/39_combination_sum.rs) |
+
+### Graphs
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 200. Number of Islands | Medium | [200_number_of_islands.rs](./tests/200_number_of_islands.rs) |
