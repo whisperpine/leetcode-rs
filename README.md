@@ -159,3 +159,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 703. Kth Largest Element in a Stream | Easy | [703_kth_largest_element_in_a_stream.rs](./tests/703_kth_largest_element_in_a_stream.rs) |
+| 1046. Last Stone Weight | Easy | [1046_last_stone_weight.rs](./tests/1046_last_stone_weight.rs) |
