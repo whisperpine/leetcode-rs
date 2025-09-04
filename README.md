@@ -145,3 +145,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 78. Subsets | Medium | [78_subsets.rs](./tests/78_subsets.rs) |
+| 39. Combination Sum | Medium | [39_combination_sum.rs](./tests/39_combination_sum.rs) |
