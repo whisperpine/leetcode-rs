@@ -172,3 +172,4 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 55. Jump Game | Medium | [55_jump_game.rs](./tests/55_jump_game.rs) |
+| 45. Jump Game II | Medium | [45_jump_game_ii.rs](./tests/45_jump_game_ii.rs) |
