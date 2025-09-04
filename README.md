@@ -166,3 +166,9 @@ so that you can use `just tf TEST` command to test.
 | Problem | Difficulty | Solution |
 | - | - | - |
 | 56. Merge Intervals | Medium | [56_merge_intervals.rs](./tests/56_merge_intervals.rs) |
+
+### Greedy
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 55. Jump Game | Medium | [55_jump_game.rs](./tests/55_jump_game.rs) |
