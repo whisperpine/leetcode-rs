@@ -12,7 +12,7 @@ scopes = [
   "linked-list",
   "trees",
   "tries",
-  "backtracing",
+  "backtracking",
   "heap",
   "graphs",
   "dp",
