@@ -160,3 +160,9 @@ so that you can use `just tf TEST` command to test.
 | - | - | - |
 | 703. Kth Largest Element in a Stream | Easy | [703_kth_largest_element_in_a_stream.rs](./tests/703_kth_largest_element_in_a_stream.rs) |
 | 1046. Last Stone Weight | Easy | [1046_last_stone_weight.rs](./tests/1046_last_stone_weight.rs) |
+
+### Intervals
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 56. Merge Intervals | Medium | [56_merge_intervals.rs](./tests/56_merge_intervals.rs) |
