@@ -19,7 +19,7 @@ flowchart LR
   linked_list("Linked List")
   trees("Trees")
   tries("Tries")
-  backtracing("Backtracing")
+  backtracking("Backtracking")
   %% heap("Heap")
   heap("Heap / Priority Queue")
   graphs("Graphs")
@@ -42,11 +42,11 @@ flowchart LR
   linked_list --> trees
 
   trees --> tries
-  trees --> backtracing
+  trees --> backtracking
   trees --> heap
 
-  backtracing --> dp
-  backtracing --> graphs
+  backtracking --> dp
+  backtracking --> graphs
 
   dp --> bit
   dp --> math
@@ -139,3 +139,9 @@ so that you can use `just tf TEST` command to test.
 | 226. Invert Binary Tree | Easy | [226_invert_binary_tree.rs](./tests/226_invert_binary_tree.rs) |
 | 104. Maximum Depth of Binary Tree | Easy | [104_maximum_depth_of_binary_tree.rs](./tests/104_maximum_depth_of_binary_tree.rs) |
 | 102. Binary Tree Level Order Traversal | Medium | [102_binary_tree_level_order_traversal.rs](./tests/102_binary_tree_level_order_traversal.rs) |
+
+### Backtracking
+
+| Problem | Difficulty | Solution |
+| - | - | - |
+| 78. Subsets | Medium | [78_subsets.rs](./tests/78_subsets.rs) |
