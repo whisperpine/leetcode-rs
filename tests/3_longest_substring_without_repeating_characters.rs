@@ -3,8 +3,16 @@
 // Topics: Sliding Window.
 // Difficulty: Medium.
 
-#[test]
-fn test_3_longest_substring_without_repeating_characters() {}
+#[rstest::rstest]
+#[case("", 0)]
+#[case("abcabcbb", 3)]
+#[case("bbbbb", 1)]
+#[case("pwwkew", 3)]
+#[case("aabaab!bb", 3)]
+fn test_3_longest_substring_without_repeating_characters(#[case] s: String, #[case] expected: i32) {
+    let result = Solution::length_of_longest_substring(s);
+    assert_eq!(result, expected)
+}
 
 #[derive(Debug)]
 pub struct Solution;
