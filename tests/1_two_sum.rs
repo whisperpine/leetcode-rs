@@ -3,11 +3,13 @@
 // Topics: Arrays & Hashing.
 // Difficulty: Easy.
 
-#[test]
-fn test_1_two_sum() {
-    let input = vec![2, 7, 11, 15];
-    let output = Solution::two_sum(input, 9);
-    println!("{output:?}");
+#[rstest::rstest]
+#[case(vec![2,7,11,15], 9, vec![0,1])]
+#[case(vec![3,2,4], 6, vec![1,2])]
+#[case(vec![3,3], 6, vec![0,1])]
+fn test_1_two_sum(#[case] nums: Vec<i32>, #[case] target: i32, #[case] expected: Vec<i32>) {
+    let output = Solution::two_sum(nums, target);
+    assert_eq!(output, expected);
 }
 
 #[derive(Debug)]
